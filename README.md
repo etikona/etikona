@@ -5,12 +5,12 @@
 I am a web developer who loves to build software to solve other peoples problems and who specializes in JavaScript technologies across the whole stack (React, Express.js , Node.js and including MongoDB database). I have experience in complete web application with backend API system and CRUD operation.
 
 ### Languages 💻💻
-1 C 
-2 C++
-3 JavaScript
-4 TypeScript
+- C 
+- C++
+- JavaScript
+- TypeScript
 
-### Skills: The Technologies I have used 
+### Skills: The Technologies I have used 🎉
 - HTML
 - CSS
 - Bootstrap
