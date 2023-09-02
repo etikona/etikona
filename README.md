@@ -4,7 +4,23 @@
 
 I am a web developer who loves to build software to solve other peoples problems and who specializes in JavaScript technologies across the whole stack (React, Express.js , Node.js and including MongoDB database). I have experience in complete web application with backend API system and CRUD operation.
 
-Skills: C / C++ /JavaScript / TypeScript / HTML / CSS / Bootstrap / Tailwind / React.js / Next.js / Redux / Docker / Node.js / Express.js / MongoDB / SQL
+### Skills: The Technologies I have used 
+- C
+- C++
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Bootstrap
+-  Tailwind
+-  React.js
+-  Next.js
+-  Redux
+-  Docker
+-  Node.js
+-  Express.js
+-  MongoDB
+-  SQL
 
 - 🌱 I’m currently learning Data Structure and Algorithm 
 - 👯 I’m looking to collaborate on github 
