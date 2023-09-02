@@ -4,11 +4,13 @@
 
 I am a web developer who loves to build software to solve other peoples problems and who specializes in JavaScript technologies across the whole stack (React, Express.js , Node.js and including MongoDB database). I have experience in complete web application with backend API system and CRUD operation.
 
-### Skills: The Technologies I have used 
+### Languages 
 - C
 - C++
 - JavaScript
 - TypeScript
+
+### Skills: The Technologies I have used 
 - HTML
 - CSS
 - Bootstrap
@@ -32,8 +34,4 @@ I am a web developer who loves to build software to solve other peoples problems
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/etikona)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/etikona)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/etikona)  
