@@ -1,5 +1,5 @@
 
-Here's a personalized README.md for your GitHub profile:
+
 
 👋 Hi, I'm Etikona
 Welcome to my GitHub! I’m a passionate frontend developer and an aspiring copywriter, continuously striving to grow, create, and contribute to impactful projects.
