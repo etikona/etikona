@@ -1,13 +1,11 @@
 <br clear="both">
 
-<div align="center">
-  <img height="357" src="https://plus.unsplash.com/premium_photo-1683309565422-77818a287060?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-</div>
+
 
 ---
 
 <h2 align="center">👋 Hi, I'm Etikona</h2>
-<p align="center">🚀 Front-end Developer | Aspiring Copywriter | Tech Enthusiast</p>
+<p align="center">🚀 Front-end Developer | AI Engineer | Tech Enthusiast</p>
 
 ---
 
