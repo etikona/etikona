@@ -5,7 +5,7 @@
 ---
 
 <h2 align="center">👋 Hi, I'm Etikona</h2>
-<p align="center">🚀 Front-end Developer | AI Engineer | Tech Enthusiast</p>
+<p align="center">🚀 Front-end Developer |  | Tech Enthusiast</p>
 
 ---
 
