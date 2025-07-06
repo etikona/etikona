@@ -1,21 +1,17 @@
-<br clear="both">
-
-
-
----
+<br clear="both" />
 
 <h2 align="center">👋 Hi, I'm Etikona</h2>
-<p align="center">🚀 Front-end Developer |  | Tech Enthusiast</p>
+<p align="center">🚀 Front-end Developer | Tech Enthusiast | Lifelong Learner</p>
 
 ---
 
 ### 🌟 About Me
 
-Passionate about crafting beautiful, functional user interfaces, exploring new technologies, and creating content that resonates. I'm always eager to contribute to impactful projects, learn new skills, and grow as a developer and a writer.
+I build elegant, accessible user interfaces and love exploring emerging web technologies. Currently focusing on React and Next.js to craft performant, scalable applications. I enjoy contributing to meaningful projects, writing clean code, and sharing knowledge along the way.
 
 ---
 
-### 🚀 Languages & Technologies
+### 🚀 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -23,8 +19,6 @@ Passionate about crafting beautiful, functional user interfaces, exploring new t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
@@ -40,7 +34,7 @@ Passionate about crafting beautiful, functional user interfaces, exploring new t
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=etikona&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -56,16 +50,16 @@ Passionate about crafting beautiful, functional user interfaces, exploring new t
 
 <div align="center">
   <a href="https://discordapp.com/users/eti9668" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
   <a href="mailto:etikonapal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/eti-kona-paul/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
 ---
 
-<p align="center">✨ Keep learning, keep growing! 🚀</p>
+<p align="center">✨ Keep learning, building, and growing. 🚀</p>
